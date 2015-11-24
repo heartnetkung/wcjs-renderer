@@ -15,8 +15,5 @@
     "repository": {
         "type" : "git",
         "url" : "https://github.com/RSATom/wcjs-renderer"
-    },
-    "dependencies": {
-        "wcjs-prebuilt": "Ivshti/wcjs-prebuilt"
     }
 }
