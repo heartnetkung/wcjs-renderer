@@ -15,5 +15,8 @@
     "repository": {
         "type" : "git",
         "url" : "https://github.com/RSATom/wcjs-renderer"
+    },
+    "dependencies" : {
+        "heartnetkung/wcjs_bin" : "*"
     }
 }
